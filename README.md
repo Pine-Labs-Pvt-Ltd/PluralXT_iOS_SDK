@@ -1,2 +1,2 @@
 # PluralXT_iOS_SDK
-PluralXT iOS SDK
+Plural XT iOS SDK
